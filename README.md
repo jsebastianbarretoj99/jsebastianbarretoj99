@@ -4,7 +4,7 @@
 System Engineer and Electronic Engineer with 1 Year of Experience specializing in Kotlin Multiplatform app development, financial Android applications, and embedded systems. Led a team in creating a cutting-edge mobile app for IOS and Android, managed projects in Django Python, implemented GraphQL, and leveraged MongoDB. Contributed to the development of afinancial Android application, engaged in ongoing maintenance, and operated within a Scrum framework. Led architecture co-design for HW and SW on FPGA DE1-SOC with an embedded ARM Cortex A9, published work on the implementation of a deep learning library in C for resource-constrained embedded platforms. Additionally, worked on side projects including a mental health support app, a smart shelf system, and a residential complex application.
 
 ## Gitlab
-https://gitlab.com/jsebastianbarretoj99
+[jsebastianbarretoj99](https://gitlab.com/jsebastianbarretoj99)
 
 ## Systems engineering Degree Work - July 2022 to July 2023
 Explore my degree project, where I've implemented a deep learning library in the C programming language tailored for embedded platforms with limited computational resources.
@@ -18,7 +18,7 @@ The edge computing paradigm enables on-site data processing, but it requires rob
 ### Memory on spanish
 - **Memory Embedded AI:** [Memory Embedded AI](https://repository.javeriana.edu.co/handle/10554/65219)
 
-## Electronic Engineering Degree Work - July 2022 to July 2023
+## Electronic Engineering Degree Work - July 2021 to July 2022
 Explore my degree project, where I've implemented a System on a Chip with codesign to execute a LeNet of Digit Recognition on DE1-SoC with part of Hardware on FPGA and part of Software on ARM Cortex A9.
 
 - **Full Project:** [EmbeddedLeNet Organization](https://gitlab.com/EmbeddedAI/embedded-lenet)
