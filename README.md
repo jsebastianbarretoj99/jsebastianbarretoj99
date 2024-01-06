@@ -6,8 +6,8 @@ System Engineer and Electronic Engineer with 1 Year of Experience specializing i
 ## Systems Degree Work
 Explore my degree project, where I've implemented a deep learning library in the C programming language tailored for embedded platforms with limited computational resources.
 
-- **Full Project:** [EmbeddedAI GitHub Organization](https://github.com/EmbeddedAI)
-- **Library Repository:** [Library for Deep Learning in Embedded Systems](https://github.com/EmbeddedAI/library-for-deep-learning-in-embedded-systems)
+- **Full Project:** [EmbeddedAI Organization](https://gitlab.com/EmbeddedAI)
+- **Library Repository:** [Library for Deep Learning in Embedded Systems](https://gitlab.com/EmbeddedAI/library-for-deep-learning-in-embedded-systems)
 
 ### Brief Description
 The edge computing paradigm enables on-site data processing, but it requires robust computers for resource-intensive algorithms like deep learning. This project aims to develop a deep learning library for edge computing. It includes popular layers from RNN and CNN architectures. Tests are conducted on both a computer and four embedded platforms to verify the library's design and assess platform suitability for classifying four models. The study also considers model size and computational resources for scalability analysis.
