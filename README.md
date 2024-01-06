@@ -12,7 +12,7 @@ Explore my degree project, where I've implemented a deep learning library in the
 ### Brief Description
 The edge computing paradigm enables on-site data processing, but it requires robust computers for resource-intensive algorithms like deep learning. This project aims to develop a deep learning library for edge computing. It includes popular layers from RNN and CNN architectures. Tests are conducted on both a computer and four embedded platforms to verify the library's design and assess platform suitability for classifying four models. The study also considers model size and computational resources for scalability analysis.
 
-### Memory on spanisn
+### Memory on spanish
 - **Memory Embedded AI:** [Memory Embedded AI](https://repository.javeriana.edu.co/handle/10554/65219)
 
 ## Gitlab
