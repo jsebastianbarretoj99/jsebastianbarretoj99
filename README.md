@@ -1,7 +1,7 @@
 # Ing. Juan Sebastian Barreto Jimenez
 
 ## Profile
-System Engineer and Electronic Engineer with 1 Year of Experience specializing in Kotlin Multiplatform app development, financial Android applications, and embedded systems. Led a team in creating a cutting-edge mobile app for IOS and Android, managed projects in Django Python, implemented GraphQL, and leveraged MongoDB. Contributed to the development of afinancial Android application, engaged in ongoing maintenance, and operated within a Scrum framework. Led architecture co-design for HW and SW on FPGA DE1-SOC with an embedded ARM Cortex A9, published work on the implementation of a deep learning library in C for resource-constrained embedded platforms. Additionally, worked on side projects including a mental health support app, a smart shelf system, and a residential complex application.
+System Engineer and Electronic Engineer with two years of Experience specializing in Kotlin Multiplatform app development and Android applications. Led a team in creating a cutting-edge mobile app for IOS and Android, managed projects in Django Python, implemented GraphQL, and leveraged MongoDB. Contributed to the development of a financial Android application, engaged in ongoing maintenance, and operated within a Scrum framework. Additionally, worked on side projects including a mental health support Android app at the University.
 
 ## Gitlab
 [jsebastianbarretoj99](https://gitlab.com/jsebastianbarretoj99)
